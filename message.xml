@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MyMsg xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="message.xsd">
+    <Header>Welcome To Jets</Header>
+    <Msg>
+        <from>Noura</from>
+        <to>Adel</to>
+        <date>2020-02-18</date>
+        <body>Welcome Welcome</body>
+    </Msg>
+    <Msg>
+        <from>Noura</from>
+        <to>Ahmed</to>
+        <date>2020-02-18</date>
+        <body>delivery of lab2</body>
+    </Msg>
+</MyMsg>

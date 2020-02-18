@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MyMsg>
+    <Header>RADWAAA</Header>
+    <Msg>
+        <from>Noura</from>
+        <to>Adel</to>
+        <date>2020-02-18</date>
+        <body>Welcome Welcome</body>
+    </Msg>
+    <Msg>
+        <from>Noura</from>
+        <to>Ahmed</to>
+        <date>2020-02-18</date>
+        <body>delivery of lab2</body>
+    </Msg>
+    <Msg>
+        <from>ana</from>
+        <to>radwa</to>
+        <body>hello</body>
+    </Msg>
+</MyMsg>
